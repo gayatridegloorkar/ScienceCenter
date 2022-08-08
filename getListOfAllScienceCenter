@@ -1,0 +1,29 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": "01",
+      "name": "Keshavraj Science Center",
+      "city": "Latur",
+      "state": "Maharashtra"
+    },
+    {
+      "id": "02",
+      "name": "Deshikendra Science Center",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "id": "03",
+      "name": "Podar International Science Center",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    {
+      "id": "04",
+      "name": "Eklavya International Science Center",
+      "city": "Nashik",
+      "state": "Maharashtra"
+    }
+  ]
+}
